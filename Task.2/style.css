@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.container {
+    height: 713px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    
+    
+
+
+}
+
+.SystemExpert {
+    width: 30%;
+    padding-left: 5px;
+    height: 80px;
+    background-color: brown;
+    margin-left: 5px;
+    margin-top: 10px;
+
+
+}
+
+#systemexpert {
+    color: #ffff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.MLExpert{
+    width: 20%;
+    height:90px;
+    background-color:rgb(215, 144, 11);
+      margin-left: 25rem;
+
+}
+#mlexpert{
+    color: #ffff;
+    text-align: center;
+    padding-top: 25px;
+}
+.AlgoExpert{
+    width: 40%;
+    height: 80px;
+    margin-right: 50rem;
+    background-color: royalblue;
+    align-self: center;
+}
